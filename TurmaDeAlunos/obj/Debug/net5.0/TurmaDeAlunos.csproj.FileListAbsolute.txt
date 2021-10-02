@@ -1,0 +1,16 @@
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/obj/Debug/net5.0/TurmaDeAlunos.csproj.AssemblyReference.cache
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/obj/Debug/net5.0/TurmaDeAlunos.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/obj/Debug/net5.0/TurmaDeAlunos.AssemblyInfoInputs.cache
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/obj/Debug/net5.0/TurmaDeAlunos.AssemblyInfo.cs
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/obj/Debug/net5.0/TurmaDeAlunos.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/bin/Debug/net5.0/TurmaDeAlunos
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/bin/Debug/net5.0/TurmaDeAlunos.deps.json
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/bin/Debug/net5.0/TurmaDeAlunos.runtimeconfig.json
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/bin/Debug/net5.0/TurmaDeAlunos.runtimeconfig.dev.json
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/bin/Debug/net5.0/TurmaDeAlunos.dll
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/bin/Debug/net5.0/ref/TurmaDeAlunos.dll
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/bin/Debug/net5.0/TurmaDeAlunos.pdb
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/obj/Debug/net5.0/TurmaDeAlunos.dll
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/obj/Debug/net5.0/ref/TurmaDeAlunos.dll
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/obj/Debug/net5.0/TurmaDeAlunos.pdb
+/home/carlos/Documentos/C#/Fundamentos/TurmaDeAlunos/obj/Debug/net5.0/TurmaDeAlunos.genruntimeconfig.cache
